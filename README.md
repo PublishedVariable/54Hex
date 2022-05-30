@@ -1,5 +1,7 @@
 ### Hello, world! 
 
+- I have skill issue so here's a platform for me to dump my random projects
+
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54Hex&show_icons=true&hide_border&theme=dark)
 
