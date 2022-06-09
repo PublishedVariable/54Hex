@@ -1,6 +1,6 @@
 ### Hello, world! 
 About: skill issue so here's a platform for me to dump my random projects
-# Let's Connect! 
+### Let's Connect! 
 <a href="https://instagram.com/54Hex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### GitHub Stats & Top Languages 
