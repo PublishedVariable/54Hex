@@ -1,8 +1,10 @@
 # Hello, world! 
-About: skill issue so here's a platform for me to dump my random projects
+About: skill issue so here's a platform for me to dump my random projects. /jk 
 
-### Let's Connect! 
-<a href="https://instagram.com/54Hex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+I'm an aviation enthuisast and a tech entuhuisast. I like all things technology too! 
+
+### Ongoing Projects: 
+<img src = "https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"> https://github.com/54Hex/Smart-Bloobin 
 
 ## GitHub Stats & Top Languages 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54Hex&show_icons=true&hide_border&theme=dark) 
