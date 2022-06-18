@@ -1,7 +1,6 @@
-# Hello, world! 
+# Hello, world 👋 
 About: skill issue so here's a platform for me to dump my random projects. /jk 
 
-I'm an aviation enthuisast and a tech entuhuisast. I like all things technology too! 
 
 ### Ongoing Projects: 
 <a href="https://github.com/54Hex/Smart-Bloobin "><img src="https://img.shields.io/badge/micro:bit-0000FF?style=for-the-badge&logo=micro:bit&logoColor=white"></a>
