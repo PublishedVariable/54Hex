@@ -8,8 +8,8 @@ About: skill issue so here's a platform for me to dump my random projects. /jk
 <!--- <a href="https://github.com/54Hex/Smart-Bloobin "><img src="https://img.shields.io/badge/micro:bit-0000FF?style=for-the- badge&logo=micro:bit&logoColor=white"></a> --->
 
 ## GitHub Stats & Top Languages 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenyearseriess&show_icons=true&hide_border&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenyearseriess&hide=makefile&layout=compact&hide_border&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenyearseries&show_icons=true&hide_border&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenyearseries&hide=makefile&layout=compact&hide_border&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages 
 <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
