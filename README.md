@@ -1,6 +1,5 @@
 # Hello, world 👋 
-About: skill issue so here's a platform for me to dump my random projects. /jk 
-
+Project dumpster. I do tech in my pastime. I'm interested in all things science and technology related, STEM essentially...
 
 ### Ongoing Projects: 
 <!-- <a href = "https://github.com/PublishedVariable/FBPN"><img src ="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white"></a> --->
